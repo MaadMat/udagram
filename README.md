@@ -49,4 +49,4 @@ Add your own domain name and have it point to the running services (try adding a
 
 ### MY EB (ELASTIC BEANSTALK ) END POINT
 
-http://image-filter-starter-code-dev222222222222222222222222.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Verschneiter_Waldweg_am_Bonstapel_in_Vlotho.jpg/1200px-Verschneiter_Waldweg_am_Bonstapel_in_Vlotho.jpg
+http://image-filter-starter-code-dev222222222222222222222222.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
